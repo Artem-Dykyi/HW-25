@@ -8,13 +8,13 @@
 
 }
 
-.squrae1 {
+.squrae:nth-child(1) {
     width: 100px;
     height: 100px;
     background-color: red;
 }
 
-.squrae2 {
+.squrae:nth-child(2) {
     width: 100px;
     height: 100px;
     background-color: greenyellow;
@@ -23,7 +23,7 @@
     left:20px;
 }
 
-.squrae3 {
+.squrae:nth-child(3) {
     width: 100px;
     height: 100px;
     background-color:blueviolet;
